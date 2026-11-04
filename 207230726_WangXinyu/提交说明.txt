@@ -1,0 +1,8 @@
+207230726 汪昕宇 储能231
+环境：MATLAB R2024b、Optimization Toolbox、MATPOWER 8.1、YALMIP、MOSEK。依赖库、求解器和个人许可证不随提交上传。
+先配置上述依赖，再在本目录运行。Week1/Week2 的 .mlx 与 .m 同名代码一致；同名文件不要在其他 MATLAB 路径保留重复副本，以免遮蔽。
+第一周按任务运行 Week1_Task1、Task2、Task3；Week1 是第一周合并入口。第二周运行 Week2，生成标准 Result 六字段、Week2_details 和规划/运行图。
+任务一：基态电压/网损；任务二：LP/MILP套利；任务三：个人城市目标A日前调度和交流校核。任务四：纯负荷配电网选址定容，默认节点9配置1MW/1MWh。
+Run_Report_Trials.m 重算报告补充试验；supplement 保存已实际求解的个人B/C、负荷/容量试验和规划灵敏度结果。rural00仅为课堂00号农村ABC对照，不冒充本人学号结果。
+result_summary.mat 中 Opt_Sites=2 为候选序号，实际节点为 [4 9 14](2)=9。Max_V_Err 是线性与交流电压偏差，不是锥间隙。
+完整报告为 WangXinyu_207230726_Report.pdf，25页，使用教师封面，含任务一至四、手算、思考题和试验分析。模型源于教师资料，在辅助工具帮助下完成运行校验与报告整理。

@@ -1,0 +1,22 @@
+{
+  "reviewed_sources": [
+    "课设提交注意事项(第一周）.pdf",
+    "课设提交注意事项(第二周）.pdf",
+    "任务四参考.pdf",
+    "报告封面.docx",
+    "日进度表",
+    "教师GitHub提交库README",
+    "课堂农村00号ABC要求"
+  ],
+  "student_folder": "207230726_WangXinyu",
+  "ReportPages": 25,
+  "Week1TaskSpecificNames": true,
+  "Week2SameNameMLXandM": true,
+  "NativeMLXCodeMatchesM": true,
+  "Task1Task2Week2ActuallyRerun": true,
+  "Task3PreviouslyVerifiedMOSEKResultPreserved": true,
+  "SixResultFieldsValidated": true,
+  "NoLicensesOrBinaries": true,
+  "SubmissionScope": "Only 207230726_WangXinyu folder; update existing PR #1",
+  "RemainingOfflineRequirement": "2026-11-06 morning: print complete report and attend defense"
+}
